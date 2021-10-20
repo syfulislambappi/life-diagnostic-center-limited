@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { Container, Row, Col, Button, Form } from "react-bootstrap"
-import { NavLink, Redirect } from "react-router-dom"
+import { NavLink } from "react-router-dom"
 import useAuth from "../../hooks/useAuth"
 import Download from "../Download/Download"
 import './Login.css'
@@ -14,11 +14,10 @@ const Login = () => {
     const [password, setPassword] = useState('')
 
     // sign in function from custom hooks
-    const {emailSignIn, googleSignIn, error, user} = useAuth()
+    const {emailSignIn, googleSignIn, error} = useAuth()
 
     return (
         <>
-        {user.displayName ? <Redirect to="/" /> : <Redirect to='/login' />}
         <Container className="py-4">
             <Row>
                 <Col lg='6' className="mb-5">
@@ -48,7 +47,7 @@ const Login = () => {
                         </Form.Group>
                         {error ? <p className="text-danger">{error}</p> : ''}
                         <Button variant="primary" type="submit" onClick={() => emailSignIn(email, password)}>
-                            Login
+                            <NavLink to={error ? '/login' : '/'} className="text-white text-decoration-none">Login</NavLink>
                         </Button>
                     </Form>
                 <h6 className='mt-4'>Don't have an Account? <NavLink to='/register' className="text-danger">Register</NavLink></h6>

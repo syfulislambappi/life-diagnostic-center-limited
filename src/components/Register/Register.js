@@ -1,6 +1,6 @@
 import {useState} from 'react'
 import { Container, Row, Col, Button, Form } from "react-bootstrap"
-import { NavLink, Redirect } from "react-router-dom"
+import { NavLink } from "react-router-dom"
 import Download from "../Download/Download"
 import useAuth from '../../hooks/useAuth'
 
@@ -14,11 +14,10 @@ const Register = () => {
     const [password, setPassword] = useState('')
 
     // extract signup function from firebase
-    const {emailSignUp, googleSignIn, user, error} = useAuth()
+    const {emailSignUp, googleSignIn, error} = useAuth()
 
     return (
         <>
-        {user.displayName ? <Redirect to="/" /> : <Redirect to='/register' />}
         <Container className="py-4">
             <Row>
                 <Col lg='6' className="mb-5">
@@ -52,7 +51,7 @@ const Register = () => {
                         </Form.Group>
                         {error ? <p className="text-danger">{error}</p> : ''}
                         <Button variant="primary" type="submit" onClick={() => emailSignUp(name, email, password)}>
-                            Register
+                            <NavLink to={error ? '/register' : '/login'} className="text-white text-decoration-none">Register</NavLink>
                         </Button>
                     </Form>
                 <h6 className='mt-4'>Already have an Account? <NavLink to='/login' className="text-danger">Login</NavLink></h6>
