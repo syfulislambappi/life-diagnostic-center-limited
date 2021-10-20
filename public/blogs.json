@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "List of Countries without Coronavirus case",
+        "description": "Around the globe, the number of COVID-19 cases has surpassed more than 200 million cases and 4.5 million deaths, thanks to spread of the delta variant. Countries and territories are seeing record numbers of coronavirus cases, from Asia to Europe, from the United States to Brazil, new waves have worsened conditions than when the pandemic initially hit. The spread of the delta variant, as well as the global inequity in vaccine distribution, is spurring new calls for lockdowns and mask mandates.",
+        "image": "https://images.unsplash.com/photo-1583423230902-b653abc541eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+        "id": "2",
+        "title": "What is the impact of eating too much sugar?",
+        "description": "Consuming too much added sugar can raise blood pressure and increase chronic inflammation, both of which are pathological pathways to heart disease. Excess consumption of sugar, especially in sugary beverages, also contributes to weight gain by tricking your body into turning off its appetite-control system because liquid calories are not as satisfying as calories from solid foods. This is why it is easier for people to add more calories to their regular diet when consuming sugary beverages.",
+        "image": "https://images.unsplash.com/photo-1558467516-f427f3ea3c33?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1031&q=80"
+    },
+    {
+        "id": "3",
+        "title": "Shifting goalposts: Research in the time of the coronavirus",
+        "description": "All data and statistics are based on publicly available data at the time of publication. Some information may be out of date. Visit our coronavirus hub and follow our live updates page for the most recent information on the COVID-19 pandemic. Last month, Medical News Today published an interview with Dr. Catherine Oldenburg, an infectious disease epidemiologist and co-lead researcher of a new clinical trial investigating a potential treatment for COVID-19. In the interview, Dr. Oldenburg commented on some unexpected ways in which the pandemic has affected how scientists conduct their research.",
+        "image": "https://images.unsplash.com/photo-1584036533827-45bce166ad94?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+        "id": "4",
+        "title": "What are the nonmedical factors most closely linked to death risk?",
+        "description": "Although there has been plenty of research linking mortality to various habits and lifestyle factors, scientists at the University of British Columbia (UBC) in Vancouver, Canada — in collaboration with colleagues from other institutions — have identified the 10 factors most likely to lead to death. The new study appears in the journal PNAS. The research aimed to better understand the stagnation in life expectancy occurring in the United States over the past 3 decades compared with other industrialized countries.",
+        "image": "https://images.unsplash.com/photo-1584252331038-d4d09c9ebce3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1031&q=80"
+    },
+    {
+        "id": "5",
+        "title": "The Recovery Room: News beyond the pandemic",
+        "description": "In this final edition of the Recovery Room, we begin with the third edition in our series of articles that seeks to find out what’s exciting cancer researchers. Together, these articles provide an essential insight into emerging treatments and diagnostic techniques. You’ll find links to all three below. We also look at food addiction, one of the most controversial topics in nutrition. Some people claim to be “addicted” to coffee, but, as another of our recent articles shows, this may not be a bad thing, as drinking any type of coffee reduces the risk of a range of liver diseases.",
+        "image": "https://images.unsplash.com/photo-1615661209324-cc0aa0506f5f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+        "id": "6",
+        "title": "Racism in mental healthcare: An invisible barrier",
+        "description": "Now, we look at how racism has forever been an obstacle blocking people’s access to appropriate formal mental healthcare among those in marginalized ethnic groups. We acknowledge that “people of color” is a very general term that encompasses numerous groups and identities, each of which has faced subtly different forms of racist discrimination. The same goes for the term marginalized ethnic groups. However, the aim of this feature is to provide an introduction to the impact of racism on mental healthcare. Future features will look at how racism has affected health and healthcare access in distinct marginalized groups more specifically.",
+        "image": "https://images.unsplash.com/photo-1494138030114-a8cf519b022b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1031&q=80"
+    }
+]

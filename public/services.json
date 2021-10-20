@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Diagnostic Imaging",
+        "description": "Diagnostic imaging allows physicians to view the inside of your body to help them find any indications of a health condition. Some machines and methods can produce pictures of the activities and structures inside your body. Your doctor will decide which medical imaging tests they’ll need to use based on the body part they’re evaluating and your symptoms. Many imaging tests are noninvasive, easy and painless. Some will require you to remain still inside the machine for a long time, however, which can get a little uncomfortable. Some tests involve a small amount of radiation exposure. For other imaging tests, the doctor will insert a small camera attached to a thin, long tube into your body. This device is referred to as a “scope.” They’ll then move the scope through a bodily opening or passageway to view the inside of a particular organ, like your lungs, heart or colon. You may need anesthesia for these procedures.",
+        "image": "https://images.unsplash.com/photo-1631563020912-213371f1d768?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": "2",
+        "name": "Ultrasound Diagnostics",
+        "description": "Medical ultrasound includes diagnostic imaging techniques, as well as therapeutic applications of ultrasound. In diagnosis, it is used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs. Its aim is usually to find a source of disease or to exclude pathology. The practice of examining pregnant women using ultrasound is called obstetric ultrasound, and was an early development of clinical ultrasonography. Ultrasound of carotid artery. Ultrasound is composed of sound waves with frequencies which are significantly higher than the range of human hearing (>20,000 Hz).[1] Ultrasonic images, also known as sonograms, are created by sending pulses of ultrasound into tissue using a probe. The ultrasound pulses echo off tissues with different reflection properties and are returned to the probe which records and displays them as an image. Many different types of images can be formed. The most common is a B-mode image (Brightness), which displays the acoustic impedance of a two-dimensional cross-section of tissue. Other types display blood flow, motion of tissue over time, the location of blood, the presence of specific molecules, the stiffness of tissue, or the anatomy of a three-dimensional region. Compared to other medical imaging modalities, ultrasound has several advantages. It provides images in real-time, is portable, and can consequently be brought to the bedside. It is substantially lower in cost than other imaging strategies and does not use harmful ionizing radiation.[2] Drawbacks include various limits on its field of view, the need for patient cooperation, dependence on patient physique, difficulty imaging structures obscured by bone, air or gases,[note 1] and the necessity of a skilled operator, usually with professional training.",
+        "image": "https://images.unsplash.com/photo-1596213281525-7811bbc7c1c3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": "3",
+        "name": "Pediatrics",
+        "description": "One of the many things you need to do to prepare for your baby's arrival is to choose a doctor to oversee their health care. A pediatrician is a medical doctor who manages the physical, behavioral, and mental care for children from birth until age 18. A pediatrician is trained to diagnose and treat a broad range of childhood illnesses, from minor health problems to serious diseases. Pediatricians have graduated from medical school and completed a 3-year residency program in pediatrics. A board-certified pediatrician has passed rigorous exams given by the American Board of Pediatrics. To remain certified, pediatricians have to meet regular continuing education requirements.",
+        "image": "https://images.unsplash.com/photo-1578496781379-7dcfb995293d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": "4",
+        "name": "Laboratory Services",
+        "description": "If your lab requisition from your provider is more than 3 months old, consider checking in with them to see if the labs are still required at this time, due to changes in practice related to pandemic response. If you are unable to attend your booked appointment, please ensure you cancel it. There are hundreds of appointments going unused every day due to no-shows, reducing access for patients who need lab service. For more information about what to expect when you visit to the lab, see COVID-19 Collection Site Safety Precautions",
+        "image": "https://images.unsplash.com/photo-1579165466991-467135ad3110?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": "5",
+        "name": "X-ray diagnostics",
+        "description": "Diagnostic imaging allows physicians to view the inside of your body to help them find any indications of a health condition. Some machines and methods can produce pictures of the activities and structures inside your body. Your doctor will decide which medical imaging tests they’ll need to use based on the body part they’re evaluating and your symptoms. Many imaging tests are noninvasive, easy and painless. Some will require you to remain still inside the machine for a long time, however, which can get a little uncomfortable. Some tests involve a small amount of radiation exposure. For other imaging tests, the doctor will insert a small camera attached to a thin, long tube into your body. This device is referred to as a “scope.” They’ll then move the scope through a bodily opening or passageway to view the inside of a particular organ, like your lungs, heart or colon. You may need anesthesia for these procedures.",
+        "image": "https://images.unsplash.com/photo-1516069677018-378515003435?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=929&q=80"
+    },
+    {
+        "id": "6",
+        "name": "Pregnancy Services",
+        "description": "Pregnancy tests are super accurate when you use them correctly. The pregnancy tests you get at the drugstore work 99 out of 100 times. They’re just as accurate as a urine pregnancy test that you’d get at a doctor’s office. Pregnancy tests work by checking your urine (pee) for a hormone called human chorionic gonadotropin (HCG). Your body only makes this hormone if you’re pregnant. HCG is released when a fertilized egg attaches to the lining of your uterus — when pregnancy begins. If your pregnancy test results are positive, it means you're pregnant. If they’re negative, it means you’re not pregnant. Pregnancy tests are most accurate when you take them after you’ve already missed your period.",
+        "image": "https://images.unsplash.com/photo-1585010873004-923f9a54e54e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80"
+    },
+    {
+        "id": "7",
+        "name": "Magnetic Resonance Imaging",
+        "description": "Magnetism is the force exerted by magnets when they attract or repel each other. Magnetism is caused by the motion of electric charges. Every substance is made up of tiny units called atoms. Each atom has electrons, particles that carry electric charges. Spinning like tops, the electrons circle the nucleus, or core, of an atom. Their movement generates an electric current and causes each electron to act like a microscopic magnet. In most substances, equal numbers of electrons spin in opposite directions, which cancels out their magnetism. That is why materials such as cloth or paper are said to be weakly magnetic. In substances such as iron, cobalt, and nickel, most of the electrons spin in the same direction. This makes the atoms in these substances strongly magnetic—but they are not yet magnets.",
+        "image": "https://images.unsplash.com/photo-1581595220057-eefa8c4add1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": "8",
+        "name": "Computed Tomography",
+        "description": "A computerized tomography (CT) scan combines a series of X-ray images taken from different angles around your body and uses computer processing to create cross-sectional images (slices) of the bones, blood vessels and soft tissues inside your body. CT scan images provide more-detailed information than plain X-rays do. A CT scan has many uses, but it's particularly well-suited to quickly examine people who may have internal injuries from car accidents or other types of trauma. A CT scan can be used to visualize nearly all parts of the body and is used to diagnose disease or injury as well as to plan medical, surgical or radiation treatment.",
+        "image": "https://images.unsplash.com/photo-1581595220921-eec2071e5159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    }
+]

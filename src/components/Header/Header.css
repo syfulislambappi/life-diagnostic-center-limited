@@ -1,0 +1,15 @@
+.login-btn {
+    background-color: #296870 !important;
+    border-color: #296870 !important;
+}
+
+.signup-btn {
+    background-color: #2FCED6 !important;
+    border-color: #2FCED6 !important;
+}
+
+@media(max-width: 973px) {
+    .login-btn, .signup-btn {
+        margin-top: 5px;
+    }
+}
