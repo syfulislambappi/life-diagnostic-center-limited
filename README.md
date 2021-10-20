@@ -7,7 +7,7 @@
 - `React Icons`
 - `Firebase`
   
-Application Live Link [Life Diagnostic Center Limited](https://github.com/facebook/create-react-app).
+Application Live Link [Life Diagnostic Center Limited](https://life-diagnostic-center-limited.web.app/).
 
 ## Brief Overveiw of Application
 The Application is created with react. User can see the services of the diagnostic center limited and see their dorctors. They can take appointment of doctors using the application. They can read the health related blogs from their website.
